@@ -1,9 +1,10 @@
-package org.sp.app0724.openapi;
+package org.sp.app0724.openapi.json;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
+
 
 //JSON 이란? 자바스크립트 객체 표기법 
 //	  xml과 함께 이기종간 데이터 교환시 사용되는 데이터 포맷 (그냥 문자열이다..)

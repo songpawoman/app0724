@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<man>
+	<name>철수</name>
+	<age>28</age>
+	<children>
+		<pet>
+			<type>고양이</type>			
+			<age>2</age>			
+			<name>나비</name>			
+			<color>검정</color>			
+		</pet>
+		<pet>
+			<type>강아지</type>			
+			<age>5</age>			
+			<name>뽀미</name>			
+			<color>흰색</color>			
+		</pet>
+	</children>
+</man>
